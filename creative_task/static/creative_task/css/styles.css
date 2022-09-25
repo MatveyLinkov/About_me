@@ -1,0 +1,21 @@
+h1 {
+    color: white
+}
+h3 {
+    color: white;
+    padding: 6px;
+}
+div {
+    margin: 7em 12em
+}
+img.projectimg {
+    flex: 100%;
+    max-width: 30em;
+    margin-right: 7em;
+    float: left;
+    border-radius: 50px;
+}
+div.container {
+    background: #181528;
+    padding: 160px;
+}
